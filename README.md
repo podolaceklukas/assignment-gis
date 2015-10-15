@@ -20,8 +20,8 @@ Build a map-based application, which lets the user see geo-based data on a map a
 
 Fork this repository and fill in (either in English, or in Slovak):
 
-**Application description**: `<fill in>`
+**Application description**: This android application shows nearby hotels, pensions and hostels marks on map. You can apply some filters to see sorted lists based of size, price category and popularity. Based on filter you can see diferent sizes and colors of each mark.
 
-**Data source**: `<fill in>`
+**Data source**: Open Street Map (https://www.openstreetmap.org)
 
-**Technologies used**: `<fill in>`
+**Technologies used**: Android application, MapboxAndroidSDK 0.7.4 API, PostGIS.
