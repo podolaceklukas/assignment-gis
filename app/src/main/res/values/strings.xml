@@ -4,4 +4,6 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="accessToken">pk.eyJ1IjoicG9kb2xhY2VrIiwiYSI6ImNpZzNyYmJ4NzAya3d2M2x3NDdmd2Jlc3EifQ.VK3yV8wH4e2LHRcJBCaxYA</string>
 </resources>
