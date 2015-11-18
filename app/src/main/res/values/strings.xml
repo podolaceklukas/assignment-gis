@@ -11,5 +11,5 @@
 
     <string name="access_token">pk.eyJ1IjoicG9kb2xhY2VrIiwiYSI6ImNpZzNyYmJ4NzAya3d2M2x3NDdmd2Jlc3EifQ.VK3yV8wH4e2LHRcJBCaxYA</string>
     <string name="map_style">https://www.dropbox.com/s/xqe5b24zj8lvglp/mystyle.json?dl=1</string>
-    <string name="server_address">"http://192.168.11.104:8080/HelloServlet/HelloServlet"</string>
+    <string name="server_address">"http://192.168.11.104:8080/Servlet/Servlet"</string>
 </resources>
