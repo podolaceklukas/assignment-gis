@@ -3,15 +3,15 @@
 	xmlns="http://java.sun.com/xml/ns/javaee"
 	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
 	id="WebApp_ID" version="3.0">
-	<display-name>HelloServlet</display-name>
+	<display-name>Servlet</display-name>
 
 	<servlet>
-		<servlet-name>HelloServlet</servlet-name>
-		<servlet-class>com.javatechig.HelloServlet</servlet-class>
+		<servlet-name>Servlet</servlet-name>
+		<servlet-class>sk.school.Servlet</servlet-class>
 	</servlet>
 	<servlet-mapping>
-		<servlet-name>HelloServlet</servlet-name>
-		<url-pattern>/HelloServlet</url-pattern>
+		<servlet-name>Servlet</servlet-name>
+		<url-pattern>/Servlet</url-pattern>
 	</servlet-mapping>
 
 </web-app>

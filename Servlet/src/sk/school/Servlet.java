@@ -1,4 +1,4 @@
-package com.javatechig;
+package sk.school;
 
 import java.io.IOException;
 import java.io.OutputStreamWriter;
@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-public class HelloServlet extends HttpServlet {
+public class Servlet extends HttpServlet {
 
 	private static final long serialVersionUID = 1L;
 
