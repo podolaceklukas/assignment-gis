@@ -1,6 +1,10 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools" tools:context="sk.school.dipgm.MainActivity">
-    <item android:id="@+id/action_settings" android:title="@string/action_settings"
-        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_near_guest_house" android:title="@string/action_near_guest_house" android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_guest_house" android:title="@string/action_guest_house" android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_near_hostels" android:title="@string/action_near_hostels" android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_hostels" android:title="@string/action_hostels" android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_near_hotels" android:title="@string/action_near_hotels" android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_hotels" android:title="@string/action_hotels" android:orderInCategory="100" app:showAsAction="never" />
 </menu>

@@ -2,8 +2,14 @@
     <string name="app_name">Accommodation locator</string>
     <string name="title_activity_main">Accommodation locator</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_hotels">Show hotels</string>
+    <string name="action_near_hotels">Show near hotels</string>
+    <string name="action_hostels">Show hostels</string>
+    <string name="action_near_hostels">Show near hostels</string>
+    <string name="action_guest_house">Show guest houses</string>
+    <string name="action_near_guest_house">Show near guest houses</string>
 
-    <string name="accessToken">pk.eyJ1IjoicG9kb2xhY2VrIiwiYSI6ImNpZzNyYmJ4NzAya3d2M2x3NDdmd2Jlc3EifQ.VK3yV8wH4e2LHRcJBCaxYA</string>
+    <string name="access_token">pk.eyJ1IjoicG9kb2xhY2VrIiwiYSI6ImNpZzNyYmJ4NzAya3d2M2x3NDdmd2Jlc3EifQ.VK3yV8wH4e2LHRcJBCaxYA</string>
+    <string name="map_style">https://www.dropbox.com/s/xqe5b24zj8lvglp/mystyle.json?dl=1</string>
+    <string name="server_address">"http://192.168.11.104:8080/HelloServlet/HelloServlet"</string>
 </resources>
